@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CCEF7&background=FFFCA200&center=true&vCenter=true&repeat=false&width=435&height=70&lines=I'm+makcy01%2C+Thank+you+for+watching!)](https://git.io/typing-svg)<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CCEF7&background=FFFCA200&center=true&vCenter=true&repeat=false&width=435&height=70&lines=I'm+makcy01%2C+Thank+you+for+watching!)](https://git.io/typing-svg)
+<!--
 **makcy01/makcy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
